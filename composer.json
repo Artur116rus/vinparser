@@ -1,0 +1,22 @@
+{
+    "name": "dominik116rus/erp",
+    "description": "Parsing vin numbers",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Dominik116rus\\Erp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artur Atlasov",
+            "email": "artur@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.* || 5.*"
+    }
+}
